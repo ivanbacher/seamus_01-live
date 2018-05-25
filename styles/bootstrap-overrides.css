@@ -1,0 +1,16 @@
+/* BOOTSTRAP OVERRIDES */
+
+.custom-lead-1 {
+  font-size: 1.50rem;
+  font-weight: 300;
+}
+
+.custom-lead-2 {
+  font-size: 1.75rem;
+  font-weight: 300;
+}
+
+.custom-lead-3 {
+  font-size: 2rem;
+  font-weight: 300;
+}

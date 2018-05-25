@@ -1,0 +1,96 @@
+
+body {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+
+.spacer-btm-5 {
+	margin-bottom: 5px;
+}
+
+.spacer-btm-10 {
+	margin-bottom: 10px;
+}
+
+.spacer-btm-20 {
+	margin-bottom: 20px;
+}
+
+.spacer-btm-30 {
+	margin-bottom: 30px;
+}
+
+.spacer-top-5 {
+	margin-top: 5px;
+}
+
+.spacer-top-10 {
+	margin-top: 10px;
+}
+
+.spacer-top-20 {
+	margin-top: 20px;
+}
+
+.spacer-top-30 {
+	margin-top: 30px;
+}
+
+.spacer-top-50 {
+	padding-top: 50px;
+}
+
+.right-margin-10 {
+	margin-right: 10px;
+}
+
+.right-margin-15 {
+	margin-right: 15px;
+}
+
+.right-margin-20 {
+	margin-right: 20px;
+}
+
+/**/
+.siblings_cus {
+	display: inline-block;
+	border-left: 2px solid black; 
+	border-right: 2px solid black; 
+	border-top: 2px solid black;
+
+	width: 20px;
+	height: 20px;
+}
+
+.marriage_cus {
+	display: inline-block;
+	border-left: 2px solid black; 
+	border-right: 2px solid black; 
+	border-bottom: 2px solid black;
+
+	width: 20px;
+	height: 20px;
+}
+
+.children_cus {
+	display: inline-block;
+	border-left: 2px solid black; 
+
+	width: 0px;
+	height: 20px;
+}
+
+.surname_cus {
+	display: inline-block;
+	background: linear-gradient(to right, #246F74 , #F5A623);
+	width: 20px;
+	height: 20px;
+}
+
+.underline_cus {
+	text-decoration: underline red;
+}
+

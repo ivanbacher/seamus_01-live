@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1030px" height="332px" viewBox="0 0 1030 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>irish_traveler_drawings</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M484,101 L456.5,230.5" id="Line-5" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M575.5,131.5 L575.5,199.5" id="Line-2" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M35,201 L35,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M215,201 L215,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M275,201 L275,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M395,201 L395,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M515,201 L515,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M635,201 L635,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M635,201 L635,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M755,201 L755,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M875,201 L875,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M995,201 L995,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M935,201 L935,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <path d="M815,201 L815,232" id="Line-3" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" points="485 52.0040981 485 21.5 545 21.5 545 52.0040981"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" points="95 232.004098 95 130.504098 155 130.504098 155 232.004098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(575.000000, 115.252049) rotate(-180.000000) translate(-575.000000, -115.252049) " points="545 130.504098 545 100 605 100 605 130.504098"></polyline>
+        <path d="M995,199.5 L35,199.5" id="Line-4" stroke="#D0021B" stroke-width="2" stroke-linecap="square"></path>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(66.000000, 295.252049) rotate(-180.000000) translate(-66.000000, -295.252049) " points="36 310.504098 36 280 96 280 96 310.504098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(186.000000, 295.252049) rotate(-180.000000) translate(-186.000000, -295.252049) " points="156 310.504098 156 280 216 280 216 310.504098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(306.000000, 295.252049) rotate(-180.000000) translate(-306.000000, -295.252049) " points="276 310.504098 276 280 336 280 336 310.504098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(426.000000, 295.252049) rotate(-180.000000) translate(-426.000000, -295.252049) " points="396 310.504098 396 280 456 280 456 310.504098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(546.000000, 295.252049) rotate(-180.000000) translate(-546.000000, -295.252049) " points="516 310.504098 516 280 576 280 576 310.504098"></polyline>
+        <polyline id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(666.000000, 295.252049) rotate(-180.000000) translate(-666.000000, -295.252049) " points="636 310.504098 636 280 696 280 696 310.504098"></polyline>
+        <circle id="Oval" fill="#F5A623" cx="605" cy="76" r="25"></circle>
+        <circle id="Oval-Copy" fill="#A4709A" cx="155" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-2" fill="#D0021B" cx="335" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-3" fill="#246F74" cx="455" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-4" fill="#246F74" cx="515" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-7" fill="#246F74" cx="875" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-8" fill="#246F74" cx="935" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-10" fill="#246F74" cx="995" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-5" fill="#246F74" cx="635" cy="256" r="25"></circle>
+        <circle id="Oval-Copy-9" fill="#A4709A" cx="95" cy="256" r="25"></circle>
+        <polygon id="Triangle" fill="#246F74" points="485 51 510 101 460 101"></polygon>
+        <polygon id="Triangle" fill="#246F74" points="275 231 300 281 250 281"></polygon>
+        <polygon id="Triangle-Copy-8" fill="#246F74" points="215 231 240 281 190 281"></polygon>
+        <polygon id="Triangle-Copy" fill="#246F74" points="35 231 60 281 10 281"></polygon>
+        <polygon id="Triangle-Copy-2" fill="#246F74" points="395 231 420 281 370 281"></polygon>
+        <polygon id="Triangle-Copy-3" fill="#D0021B" points="695 231 720 281 670 281"></polygon>
+        <polygon id="Triangle-Copy-4" fill="#D0021B" points="575 231 600 281 550 281"></polygon>
+        <polygon id="Triangle-Copy-5" fill="#246F74" points="815 231 840 281 790 281"></polygon>
+        <polygon id="Triangle-Copy-6" fill="#246F74" points="755 231 780 281 730 281"></polygon>
+        <polygon id="Triangle" fill="#246F74" points="545 51 570 101 520 101"></polygon>
+    </g>
+</svg>
